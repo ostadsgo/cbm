@@ -1,0 +1,36 @@
+﻿Column ,Parameter,Explanation
+1,PointID,Sampling point identifier
+2,County,"Abbreviation of County, BB=Brandenburg, BE=Berlin, BW=Baden-Würtemberg, BY=Bayern, HB=Bremen, HE=Hessen, HH=Hansestadt Hamburg, MV=Mecklenburg Vorpommern, NI=Niedersachsen, NW=Nordrhein-Westfalen, RP=Rheinland-Pfalz, SH=Schleswig Holstein, SL=Saarland, SN=Sachsen, ST=Sachsen-Anhalt, TH=Thüringen"
+3,Layer upper limit,"Upper limit of the sampled layer [cm]; standard depths: 0-10cm, 10-30cm, 30-50cm, 50-70cm, 70-100cm; Deviating sampling (additional layers), when limit of the peodgenetic horizon deviated by more than 4 cm from the standard depth layer limit. "
+4,Layer lower limit,"Lower limit of the sampled layer [cm]; standard depths: 0-10cm, 10-30cm, 30-50cm, 50-70cm, 70-100cm; Deviating sampling (additional layers), when limit of the peodgenetic horizon deviated by more than 4 cm from the standard depth layer limit. "
+5,Horizon lower limit,Lower limit of the pedogenetic soil horizon [cm]
+6,gS,Coarse sand content [Mass-%]; Grain size 630-2000µm (DIN ISO 11277)
+7,mS,Medium sized sand content [Mass-%]; Grain size 200-630µm (DIN ISO 11277)
+8,fS,Fine sand content [Mass-%]; Grain size 63-200µm (DIN ISO 11277)
+9,gU,Coarse silt content [Mass-%]; grain size 20-63µm (DIN ISO 11277)
+10,mU,Medium sized silt content [Mass-%]; Grain size 6.3-20µm (DIN ISO 11277)
+11,fU,Fine silt content [Mass-%]; Grain size 2-6.3µm (DIN ISO 11277)
+12,Sand,Sand content [Mass-%]; grain size 63-2000µm (DIN ISO 11277)
+13,Silt,Silt content [Mass-%]; Grain size 2-63µm (DIN ISO 11277)
+14,Clay,Clay content [Mass-%]; Grain size <2µm (DIN ISO 11277)
+15,Soil texture class,According to German texture triangle (KA5)
+16,pH_H2O,"pH-value in water [mol l-1] (DIN ISO 10390, modified)"
+17,EC_H2O,Electric conductivity in water [µS cm-1] (DIN EN ISO 27888)
+18,pH_CaCl2,pH-vlaue in Claciumchlorid [mol l-1] (DIN ISO 10390)
+19,TC,Total carbon[g kg-1] (DIN ISO 10694:1995)
+20,TOC,Organic carbon [g kg-1]  (DIN ISO 10694:1995)
+21,TIC,"Inorganic carbon [g kg-1] (DIN 19539, modified)"
+22,TN,Total nitrogen [g kg-1]  (DIN EN 16168:2012)
+23,TS,Total sulphur [g kg-1] (DIN ISO 15178:02-2001)
+24,BD_FS,"Bulk density of the fine soil [g cm-3] (HFA A2.8, verändert)"
+25,FSS,Fine soil stock [Mg ha-1]
+26,Water content,Water content at sampling [Mass-%]
+27,Stone density,True density of the rock fragment fraction (>2mm) [g cm-3] (DIN ISO 11508) 
+28,BD_bulk,"Total soil bulk density [g cm-3] (HFA A2.8, verändert)"
+29,Rock fragment fraction,Rock fragment fraction (>2mm) [Vol-%]
+30,Mn_Ox,Oxalate-extractable Manganese [mg kg-1] (DIN 19684-6)
+31,Fe_Ox,Oxalate-extractable iron [g kg-1] (DIN 19684-6)
+32,Al_Ox,Oxalate-extractable Aluminum [g kg-1] (DIN 19684-6)
+33,Mn_Di,Dithionite-extractable Manganese [mg kg-1] (DIN EN ISO 12782-2:2012)
+34,Fe_Di,Dithionite-extractable iron [g kg-1] (DIN EN ISO 12782-2:2012)
+35,Al_Di,Dithionite-extractable Aluminum [g kg-1] (DIN EN ISO 12782-2:2012)
