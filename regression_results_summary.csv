@@ -1,0 +1,15 @@
+Model,Predictor,Coefficient,R²
+Simple,Water content,0.5818115498926755,0.4214817208588394
+Simple,Intercept,0.2301800414598265,0.4214817208588394
+Multiple_Continuous,Water content,0.5661715072864854,
+Multiple_Continuous,depth_continuous,-0.2395830757304657,
+Multiple_Continuous,texture_Loam,2.266556395537708,
+Multiple_Continuous,texture_Sand,4.139537868742161,
+Multiple_Continuous,texture_Silt,-1.5439055390332386,
+Multiple_Continuous,Intercept,8.236046311526056,
+Multiple_Binary,Water content,0.5730943830528519,
+Multiple_Binary,depth_binary,-13.733233832622687,
+Multiple_Binary,texture_Loam,3.0544167040357144,
+Multiple_Binary,texture_Sand,4.379089894219705,
+Multiple_Binary,texture_Silt,-0.8023714471121347,
+Multiple_Binary,Intercept,8.69977715260517,
