@@ -1,0 +1,40 @@
+,Soil texture class,Texture_Group,Count
+30,Ut4,Clay-dominant,1359
+4,Lt2,Clay-dominant,716
+29,Ut3,Clay-dominant,665
+5,Lt3,Clay-dominant,416
+13,St2,Clay-dominant,407
+22,Tt,Clay-dominant,235
+28,Ut2,Clay-dominant,92
+14,St3,Clay-dominant,89
+11,Sl4,Loam-dominant,1146
+10,Sl3,Loam-dominant,1058
+9,Sl2,Loam-dominant,846
+18,Tl,Loam-dominant,118
+35,hoher Carbonat-/Humusanteil,Loam-dominant,6
+37,mSfs,Sandy-dominant,939
+33,fSms,Sandy-dominant,666
+3,Ls4,Sandy-dominant,561
+1,Ls2,Sandy-dominant,504
+0,> 30 Masse%-OBS,Sandy-dominant,475
+2,Ls3,Sandy-dominant,475
+6,Lts,Sandy-dominant,355
+26,Uls,Sandy-dominant,324
+32,fS,Sandy-dominant,292
+38,mSgs,Sandy-dominant,176
+36,mS,Sandy-dominant,169
+27,Us,Sandy-dominant,52
+21,Ts4,Sandy-dominant,22
+20,Ts3,Sandy-dominant,11
+34,gS,Sandy-dominant,11
+19,Ts2,Sandy-dominant,7
+8,SS,Sandy-dominant,3
+7,Lu,Silt-dominant,1292
+24,Tu3,Silt-dominant,900
+15,Su2,Silt-dominant,881
+23,Tu2,Silt-dominant,709
+25,Tu4,Silt-dominant,483
+12,Slu,Silt-dominant,343
+16,Su3,Silt-dominant,320
+17,Su4,Silt-dominant,54
+31,Uu,Silt-dominant,12
